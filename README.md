@@ -1,9 +1,8 @@
 ### Hi there 👋, I am Sanjana
+<h4>Exploring the world of data, one commit at a time - a Data Scienctist in training</h4>
 ![MasterHead](https://i.pinimg.com/originals/31/b0/d4/31b0d4372d340e573150b7ac91bc7fd8.gif)
-
-Exploring the world of data, one commit at a time - a Data Scienctist in training
 <p align="right"> <img src="https://i.pinimg.com/564x/1c/b3/0f/1cb30f5cbbf2ee9b7577933d77e89552.jpg" alt="sanjanatarekar" /> </p>
-<p align='left>
+<p align='left'>
 - 🔭 I’m currently working on Semantic Segmentation 
 - 🌱 I’m currently learning Artificial Intelligence 
 - 👯 I’m looking to collaborate on Data Scientists 
@@ -11,7 +10,7 @@ Exploring the world of data, one commit at a time - a Data Scienctist in trainin
 - 💬 Ask me about anything 
 - 📫 How to reach me: suntarekar@gmail.com 
 - ⚡ Fun fact: Animal lover
-          </p>
+</p>
 
 
 
