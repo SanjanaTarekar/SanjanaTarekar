@@ -1,9 +1,8 @@
 ### Hi there 👋, I am Sanjana
-[![MasterHead](https://i.pinimg.com/originals/31/b0/d4/31b0d4372d340e573150b7ac91bc7fd8.gif)]
+![MasterHead](https://i.pinimg.com/originals/31/b0/d4/31b0d4372d340e573150b7ac91bc7fd8.gif)
 
 Exploring the world of data, one commit at a time - a Data Scienctist in training
-img align="right" alt="Coding" width="400"
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=sanjanatarekar&label=Profile%20views&color=0e75b6&style=flat](https://cdn.dribbble.com/users/22930/screenshots/3258977/media/006b061ec63b95eb692c0dae23f9ca69.gif)" alt="sanjanatarekar" /> </p>
+<p align="left"> <img src="https://i.pinimg.com/564x/1c/b3/0f/1cb30f5cbbf2ee9b7577933d77e89552.jpg" alt="sanjanatarekar" /> </p>
 - 🔭 I’m currently working on Semantic Segmentation 
 - 🌱 I’m currently learning Artificial Intelligence 
 - 👯 I’m looking to collaborate on Data Scientists 
