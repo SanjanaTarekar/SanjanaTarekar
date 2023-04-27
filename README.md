@@ -3,11 +3,9 @@ Sanjana Tarekar - Data Science Enthusiast 👋
   <img src="https://i.pinimg.com/originals/31/b0/d4/31b0d4372d340e573150b7ac91bc7fd8.gif" alt="Sanjana Tarekar - MasterHead">
 </p>
 <h4 align="center">Exploring the world of data, one commit at a time - a Data Scientist in training</h4>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjanatarekar&color=blueviolet&style=flat-square&label=Visitors" alt="sanjanatarekar :: Visitors" />
-</p>
+
 📝 Summary
-Sanjana Tarekar is a Data Science enthusiast currently exploring the world of AI and Machine Learning. She is passionate about exploring data, building models, and creating value from it. She loves to contribute to the open-source community and collaborate with other data scientists to work on interesting projects. Her current focus is on Semantic Segmentation.
+Data enthusiast currently exploring the world of AI and Machine Learning. Passionate about exploring data, building models, and creating value from it. I love to contribute to the open-source community and collaborate with other data scientists to work on interesting projects.
 
 - 🔭 I’m currently working on Semantic Segmentation 
 - 🌱 I’m currently learning Artificial Intelligence 
@@ -16,8 +14,6 @@ Sanjana Tarekar is a Data Science enthusiast currently exploring the world of AI
 - 💬 Ask me about anything 
 - 📫 How to reach me: suntarekar@gmail.com 
 - ⚡ Fun fact: Animal lover
-
-
 
 
 <h3 align="left">Connect with me:</h3>
