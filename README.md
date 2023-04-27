@@ -1,7 +1,8 @@
 Sanjana Tarekar - Data Science Enthusiast 👋
 <p align="center">
-  <img src="https://i.pinimg.com/originals/31/b0/d4/31b0d4372d340e573150b7ac91bc7fd8.gif" alt="Sanjana Tarekar - MasterHead">
+  <img src="https://i.pinimg.com/originals/31/b0/d4/31b0d4372d340e573150b7ac91bc7fd8.gif" alt="Sanjana Tarekar - MasterHead" width="400" height="300">
 </p>
+
 <h4 align="center">Exploring the world of data, one commit at a time - a Data Scientist in training</h4>
 
 📝 Summary<br>
