@@ -1,3 +1,7 @@
+<div class="bg"></div>
+<div class="bg bg2"></div>
+<div class="bg bg3"></div>
+<div class="content">
 ### Hi there 👋, I am Sanjana
 
 ![MasterHead](https://i.pinimg.com/originals/31/b0/d4/31b0d4372d340e573150b7ac91bc7fd8.gif)
@@ -27,3 +31,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaTarekar)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjanaTarekar&show_icons=true)  
+</div>
