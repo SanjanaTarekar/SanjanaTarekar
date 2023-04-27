@@ -1,10 +1,10 @@
+### Hi there 👋, I am Sanjana
+
+![MasterHead](https://i.pinimg.com/originals/31/b0/d4/31b0d4372d340e573150b7ac91bc7fd8.gif)
 <div class="bg"></div>
 <div class="bg bg2"></div>
 <div class="bg bg3"></div>
 <div class="content">
-### Hi there 👋, I am Sanjana
-
-![MasterHead](https://i.pinimg.com/originals/31/b0/d4/31b0d4372d340e573150b7ac91bc7fd8.gif)
 <h4>Exploring the world of data, one commit at a time - a Data Scienctist in training</h4>
 
 - 🔭 I’m currently working on Semantic Segmentation 
