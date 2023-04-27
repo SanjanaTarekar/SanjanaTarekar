@@ -4,7 +4,7 @@ Sanjana Tarekar - Data Science Enthusiast 👋
 </p>
 <h4 align="center">Exploring the world of data, one commit at a time - a Data Scientist in training</h4>
 
-📝 Summary
+📝 Summary<br>
 Data enthusiast currently exploring the world of AI and Machine Learning. Passionate about exploring data, building models, and creating value from it. I love to contribute to the open-source community and collaborate with other data scientists to work on interesting projects.
 
 - 🔭 I’m currently working on Semantic Segmentation 
