@@ -3,7 +3,7 @@
 </p>
 
 <div>
-  <img src="https://i.pinimg.com/originals/31/b0/d4/31b0d4372d340e573150b7ac91bc7fd8.gif" alt="Sanjana Tarekar - MasterHead" width="900" height="250" style="float:left; margin-right:30px;">
+  <img src="https://i.pinimg.com/originals/31/b0/d4/31b0d4372d340e573150b7ac91bc7fd8.gif" alt="Sanjana Tarekar - MasterHead" width="900" height="300" style="float:left; margin-right:30px;">
   <h4>Exploring the world of data, one commit at a time - a Data Scientist in training</h4>
   <p>Data enthusiast currently exploring the world of AI and Machine Learning. Passionate about exploring data, building models, and creating value from it. I love to contribute to the open-source community and collaborate with other data scientists to work on interesting projects.</p>
   <ul>
