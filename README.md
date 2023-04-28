@@ -1,24 +1,21 @@
-<h2 align="center">Sanjana Tarekar - Data Science Enthusiast 👋</h2>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/31/b0/d4/31b0d4372d340e573150b7ac91bc7fd8.gif" alt="Sanjana Tarekar - MasterHead" width="400" height="300">
+  <h1>Sanjana Tarekar - Data Science Enthusiast 👋</h1>
 </p>
 
-<h4 align="center">Exploring the world of data, one commit at a time - a Data Scientist in training</h4>
-
-<p align="center">
-  <strong>📝 Summary</strong><br>
-  Data enthusiast currently exploring the world of AI and Machine Learning. Passionate about exploring data, building models, and creating value from it. I love to contribute to the open-source community and collaborate with other data scientists to work on interesting projects.
-</p>
-
-<ul>
-  <li>🔭 I’m currently working on Semantic Segmentation</li>
-  <li>🌱 I’m currently learning Artificial Intelligence</li>
-  <li>👯 I’m looking to collaborate with Data Scientists</li>
-  <li>🤔 I’m looking for help with projects related to data</li>
-  <li>💬 Ask me about anything</li>
-  <li>📫 How to reach me: suntarekar@gmail.com</li>
-  <li>⚡ Fun fact: Animal lover</li>
-</ul>
+<div>
+  <img src="https://i.pinimg.com/originals/31/b0/d4/31b0d4372d340e573150b7ac91bc7fd8.gif" alt="Sanjana Tarekar - MasterHead" width="400" height="300" style="float:left; margin-right:30px;">
+  <h4>Exploring the world of data, one commit at a time - a Data Scientist in training</h4>
+  <p>Data enthusiast currently exploring the world of AI and Machine Learning. Passionate about exploring data, building models, and creating value from it. I love to contribute to the open-source community and collaborate with other data scientists to work on interesting projects.</p>
+  <ul>
+    <li>🔭 I’m currently working on Semantic Segmentation</li>
+    <li>🌱 I’m currently learning Artificial Intelligence</li>
+    <li>👯 I’m looking to collaborate on Data Scientists</li>
+    <li>🤔 I’m looking for help with projects related to data</li>
+    <li>💬 Ask me about anything</li>
+    <li>📫 How to reach me: suntarekar@gmail.com</li>
+    <li>⚡ Fun fact: Animal lover</li>
+  </ul>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
