@@ -14,6 +14,7 @@
     <li>💬 Ask me about anything</li>
     <li>📫 How to reach me: suntarekar@gmail.com</li>
     <li>⚡ Fun fact: Animal lover</li>
+    <li> My official portfolio will be live soon...!</li>
   </ul>
 </div>
 
