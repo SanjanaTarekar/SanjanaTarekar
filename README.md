@@ -15,7 +15,7 @@
     <li>📫 How to reach me: suntarekar@gmail.com</li>
     <li>⚡ Fun fact: Animal lover</li>
     <li> My official portfolio will be live soon...!</li>
-    <li> Swaped with exams till 31st May 2023 ☹️</li>
+    <li> Exams till 31st May 2023 ☹️</li>
   </ul>
 </div>
 
