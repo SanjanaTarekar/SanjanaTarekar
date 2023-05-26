@@ -16,6 +16,7 @@
     <li>⚡ Fun fact: Animal lover</li>
     <li> Working on my official portfolio and will be live soon...!</li>
     <li> Exams till 31st May 2023 ☹️</li>
+    <lii> Check out my new published article on medium - https://medium.com/@suntarekar/from-data-to-decisions-the-transformative-journey-of-analysis-8fafec06e9ec</li>
   </ul>
 </div>
 
