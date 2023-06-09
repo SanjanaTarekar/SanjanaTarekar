@@ -15,8 +15,7 @@
     <li>📫 How to reach me: suntarekar@gmail.com</li>
     <li>⚡ Fun fact: Animal lover</li>
     <li> Working on my official portfolio and will be live soon...!</li>
-    <li> Exams till 31st May 2023 ☹️</li>
-    <lii> Check out my new published article on medium - https://medium.com/@suntarekar/from-data-to-decisions-the-transformative-journey-of-analysis-8fafec06e9ec</li>
+    <lii> Check out my new published article on medium - https://medium.com/@suntarekar/tableau-data-insights-through-visualizations-28709fca2ac0</li>
   </ul>
 </div>
 
