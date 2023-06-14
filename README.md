@@ -15,7 +15,7 @@
     <li>📫 How to reach me: suntarekar@gmail.com</li>
     <li>⚡ Fun fact: Animal lover</li>
     <li> Working on my official portfolio and will be live soon...!</li>
-    <lii> Check out my new published article on medium - https://medium.com/@suntarekar/tableau-data-insights-through-visualizations-28709fca2ac0</li>
+    <lii> Check out my published articles on medium - https://medium.com/@suntarekar</li>
   </ul>
 </div>
 
