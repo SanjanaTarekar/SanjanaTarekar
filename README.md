@@ -16,6 +16,8 @@
     <li>⚡ Fun fact: Animal lover</li>
     <li> Working on my official portfolio and will be live soon...!</li>
     <lii> Check out my published articles on medium - https://medium.com/@suntarekar</li>
+    <li> Upcoming work - Special Guide on Pandas, Numpy and Data Visualization libraries.</li>
+    <li>Working with Audio Data</li>
   </ul>
 </div>
 
