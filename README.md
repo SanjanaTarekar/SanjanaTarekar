@@ -17,7 +17,7 @@
     <li> Working on my official portfolio and will be live soon...!</li>
     <lii> Check out my published articles on medium - https://medium.com/@suntarekar</li>
     <li> Upcoming work - Special Guide on Pandas, Numpy and Data Visualization libraries.</li>
-    <li>Working with Audio Data</li>
+    <li>Completed with Uni course work, going to start uploading projects now...... 😊</li>
   </ul>
 </div>
 
